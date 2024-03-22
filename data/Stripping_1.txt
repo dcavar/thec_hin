@@ -1,0 +1,55 @@
+# Stripping_1.txt
+# (C) 2023 by Natasha Singh <singhnat@iu.edu>
+# language: hin
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+सुज़न रात को काम करती है, और बिल भी ___
+----
+सुज़न रात को काम करती है, और बिल भी रात को काम करता है।
+# Translation of english data
+# Added by Natasha Singh
+
+
+सैम ने क्यों फ़ोन किया, और बिल ने भी  ___?
+----
+सैम ने क्यों फ़ोन किया, और बिल ने भी क्यों फ़ोन किया?
+# Translation of english data
+# Added by Natasha Singh
+
+
+Should I do it, or ___ you ___?
+क्या मुझे यह करना चाहिए, या तुम्हें  ___?
+----
+क्या मुझे यह करना चाहिए, या तुम्हें यह करना चाहिए?
+# Translation of english data
+# Added by Natasha Singh
+
+
+क्रिस ने कल कहा कि उसे पता था, और आज भी  ___।
+----
+क्रिस ने कल कहा कि उसे पता था, और आज भी वह कह रहा है कि उसे पता है।
+# Translation of english data
+# Added by Natasha Singh
+
+
+उसने बच्चों को रुकने को कहा, और बड़ो को भी ___।
+----
+उसने बच्चों को रुकने को कहा, और बड़ो को भी रुकने को कहा।
+# Translation of english data
+# Added by Natasha Singh
+
+
+मेरी बहन दिल्ली में रहती है और मेरा भाई भी ___ ।
+----
+मेरी बहन दिल्ली में रहती है और मेरा भाई भी दिल्ली में रहता है।
+# Translation of english data
+# Added by Natasha Singh
+
+
+
+तुम भूखे हो, और मैं भी___।
+----
+You are hungry, and I am hungry too.
+# Translation of english data
+# Added by Natasha Singh

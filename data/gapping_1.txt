@@ -1,0 +1,825 @@
+# gapping_1.txt
+# (C) 2023 by Sumedh Salvi <sssalvi@iu.edu>, Natasha Singh <singhnat@iu.edu>, Abhigya Agrawal <abagra@iu.edu>, Rahul Gupta <rg12@iu.edu>
+# language: hin
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+मीना ने नई गाड़ी खरीदी थी, और मनु ने भी ___।
+----
+मीना ने नई गाड़ी खरीदी थी, और मनु ने भी नई गाड़ी खरीदी थी।
+# https://www.uvm.edu/~emanetta/VPEinCP.pdf
+# Translation eng: Meena bought a new car and Manu did also (bought a new car)
+# Corrected by Abhigya Agrawal
+# Reviewed by Natasha Singh
+
+राम चाय पीता है, और सीता कॉफ़ी ___।
+----
+राम चाय पीता है, और सीता कॉफ़ी पीती है।
+# Sumedh Salvi
+# Translation eng: Ram drinks tea, and Sita [drinks] coffee.
+# Reviewed by Abhigya Agrawal and Natasha Singh.
+
+सोनू गाना गाता है, और दीपिका डांस ___।
+----
+सोनू गाना गाता है, और दीपिका डांस करती हैं।
+# Sumedh Salvi
+# Translation eng: Sonu sings a song, and Deepika [do] dance.
+
+श्याम फुटबॉल खेलता है, और राम क्रिकेट ___।
+----
+श्याम फुटबॉल खेलता है, और राम क्रिकेट खेलता है।
+# Sumedh Salvi
+# Translation eng: Shyam plays football, and Ram [plays] Cricket
+# Reviewed by Abhigya Agrawal and Natasha Singh.
+
+करण सब्जी खाता है, और अर्जुन फल ___।
+----
+करण सब्जी खाता है, और अर्जुन फल खाता है।
+# Sumedh Salvi
+# Translation eng: Karan eats vegetables, and Arjun [eats] fruits
+# Reviewed by Abhigya Agrawal and Natasha Singh.
+
+राजेश खाना बनाता है, और सुरेश सब्ज़ी ___।
+----
+राजेश दाल बनाता है, और सुरेश बर्तन धोता है।
+# Sumedh Salvi
+# Translation eng: Rajesh cooks lentils, and Suresh [cooks] vegetables.
+# Corrected by Rahul Gupta
+
+अमित प्रिया से प्यार करता है और प्रिया भी अमित से ___।
+----
+अमित प्रिया से प्यार करता है और प्रिया भी अमित से प्यार करती है।
+# Sumedh Salvi
+# Translation eng: Amit loves Priya and Priya also loves Amit.
+# Reviewed by Abhigya Agrawal and Natasha Singh.
+
+राम ने चॉम्स्की का नया लेख दो बार पढ़ा और राज ने भी ___।
+----
+राम ने चॉम्स्की का नया लेख दो बार पढ़ा और राज ने भी दो बार पढ़ा।
+# https://www.uvm.edu/~emanetta/VPEinCP.pdf
+# Translation eng: Ram read the new paper by Chomsky twice and Raj also read (the paper twice)
+# Corrected by Abhigya Agrawal
+# Reviewed by Natasha Singh
+
+कबीर ने इस किताब को पहली बार पढ़ लिया और मीना ने भी ___।
+----
+कबीर ने इस किताब को पहली बार पढ़ लिया और मीना ने भी पहली बार पढ़ लिया।
+# https://www.uvm.edu/~emanetta/VPEinCP.pdf
+# Translation eng: Kabir managed to read this book for the first time and Meena also read (this book for the first time)
+# Corrected by Abhigya Agrawal
+# Reviewed by Natasha Singh
+
+कबीर एक बात कल समझ गया और मीना भी ___।
+----
+कबीर एक बात कल समझ गया और मीना भी एक बात कल समझ गई।
+# https://www.uvm.edu/~emanetta/VPEinCP.pdf
+# Translation eng: Kabir understood a fact yesterday and Meena also understood (a fact yesterday)
+# Corrected by Abhigya Agrawal
+# Reviewed by Natasha Singh
+
+कबीर ने कहानी असानी से याद की और मीना ने भी ___।
+----
+कबीर ने कहानी असानी से याद की और मीना ने भी असानी से याद की।
+# https://www.uvm.edu/~emanetta/VPEinCP.pdf
+# Translation eng: Kabir remembered a story easily and Meena also remembered (a story easily).
+# Corrected by Abhigya Agrawal
+# Reviewed by Natasha Singh
+
+सीता ने घर बेचा और राम ने भी ___।
+----
+सीता ने घर बेचा और राम ने भी घर बेचा।
+# https://www.uvm.edu/~emanetta/VPEinCP.pdf
+# Translation eng: Sita sold a house and Ram also sold (a house)
+# Corrected by Abhigya Agrawal
+# Reviewed by Natasha Singh
+
+रवि हमेशा शाम को किताब पढ़ने का प्रयास करता था, और दिव्या ___ एक समाचार पत्रिका ___।
+----
+रवि हमेशा शाम को किताब पढ़ने का प्रयास करता था, और दिव्या हमेशा एक समाचार पत्रिका पढ़ने का प्रयास करती थी।
+रवि हमेशा शाम को किताब पढ़ने का प्रयास करता था, और दिव्या हमेशा शाम को एक समाचार पत्रिका पढ़ने का प्रयास करती थी।
+# Translation of english data
+# Added by Natasha 
+# Reviewed by Abhigya
+
+
+मैंने  मीरा से एक किताब चुराई, और राजेश ने चुम्मियाँ ___।
+----
+मैंने मीरा से एक किताब चुराई, और राजेश ने मीरा से चुम्मियाँ  चुराई।
+# Translation of english data
+# Added by Natasha 
+# Reviewed by Abhigya
+
+
+राजेश और रवि समाचार देख रहे थे, और मीरा एक फ़िल्म ___।
+----
+राजेश और रवि समाचार देख रहे थे, और मीरा एक फ़िल्म देख रही थी।
+# Translation of english data
+# Added by Natasha 
+# Reviewed by Abhigya
+
+
+
+मीरा और दिव्या अभी एक किताब पढ़ रही हैं, और रवि ___ एक समाचार पत्रिका ___।
+----
+मीरा और दिव्या अभी एक किताब पढ़ रही हैं, और रवि अभी एक समाचार पत्रिका पढ़ रहा है।
+# Translation of english data
+# Added by Natasha 
+# Reviewed by Abhigya
+
+कुछ लोग रोटी खा रहे थे, और कुछ लोग चावल  ___।
+----
+कुछ लोग रोटी खा रहे थे, और कुछ लोग चावल खा रहे थे।
+# Translation of english data
+# Added by Natasha 
+# Reviewed by Abhigya
+
+
+विवेक को बिल्ली को प्यार करने का शौक है, और नेहा को कुत्ते को ___।
+----
+विवेक को बिल्ली को प्यार करने का शौक है, और नेहा को कुत्ते को प्यार करने का शौक है।
+# Translation of english data
+# Added by Natasha 
+# Reviewed by Abhigya
+
+
+विवेक को मैंने देखा है, और रवि को तुमने ___।
+----
+विवेक को मैंने देखा है, और रवि को तुमने देखा है।
+# Translation of english data
+# Added by Natasha 
+# Reviewed by Abhigya
+
+क्या मैं तुम्हें बुलाऊं, या  ___ तुम मुझे ___?
+----
+क्या मैं तुम्हें बुलाऊं, या क्या तुम मुझे बुलाओगे?
+# Translation of english data
+# Added by Natasha 
+# Reviewed by Abhigya
+
+
+क्या रवि नेहा को पहले नमस्कार करेगा, या ___ नेहा रवि को ___?
+----
+क्या रवि नेहा को पहले नमस्कार करेगा, या क्या नेहा रवि को पहले नमस्कार करेगी?
+# Translation of english data
+# Added by Abhigya 
+# Reviewed by Natasha
+
+
+वह मानता है की मीरा को उत्तर पता है, और मीरा नती है की उसे ___।
+----
+वह मानता है की मीरा को उत्तर पता है, और मीरा मानती है की उसे उत्तर पता है।
+# Translation of english data
+# Added by Abhigya  
+# Reviewed by  Natasha
+
+
+मुझे उम्मीद है कि तुम मदद करोगे, और तुम्हें ___ कि मैं ___।
+----
+मुझे उम्मीद है कि तुम मदद करोगे , और तुम्हें उम्मीद है कि मैं मदद करूँगा।
+# Translation of english data
+# Added by Abhigya  
+# Reviewed by  Natasha 
+
+
+रवि ने काम किया है, और विवेक ने भी ___।
+----
+रवि ने काम किया है, और विवेक ने भी काम किया है।
+# Translation of english data
+# Added by Abhigya  
+# Reviewed by  Natasha 
+
+
+क्या राजेश ने पहले शादी की, या ___ दिव्या  ने  ___?
+----
+क्या राजेश ने पहले शादी की, या क्या दिव्या ने पहले शादी की?
+# Translation of english data
+# Added by Abhigya  
+# Reviewed by  Natasha
+
+
+उसको मीरा से प्यार है, और मीरा को उस से  ___, तो पार्टी मजेदार होनी चाहिए।
+----
+उसको मीरा से प्यार है, और मीरा को उस से प्यार है, तो पार्टी मजेदार होनी चाहिए।
+# Translation of english data
+# Added by Abhigya  
+# Reviewed by  Natasha
+
+
+मैं एक कविता लिखने की कोशिश करना चाहता हूँ, और मीरा एक नाटक ___ की  ___।
+----
+मैं एक कविता लिखने की कोशिश करना चाहता हूँ, और मीरा नाटक लिखने की कोशिश करना चाहती है।
+# Translation of english data
+# Added by Abhigya  
+# Reviewed by  Natasha
+
+
+मैं एक कविता लिखने की कोशिश करना चाहता हूँ, और मीरा एक नाटक लिखने की  ___।
+----
+मैं एक कविता लिखने की कोशिश करना चाहता हूँ, और मीरा नाटक लिखने की कोशिश करना चाहती है।
+# Translation of english data
+# Added by Abhigya  
+# Reviewed by  Natasha
+
+
+भारी व व्यावसायिक वाहन के लिए ___ बॉर्डर रात 12 बजे खोल दिए गए।
+-----------------
+भारी व व्यावसायिक वाहन के लिए (दिल्ली के) बॉर्डर रात 12 बजे खोल दिए गए।
+#Translation - For heavy and commercial vehicles borders were opened at 12 in the night.
+#Source - “अब सब नॉर्मल है: खुल गए दिल्ली के बॉर्डर, मेट्रो, रेल और बस सेवा भी हो गईं सामान्य; लोगों को मिली बड़ी राहत.” Amar Ujala, www.amarujala.com/delhi-ncr/all-borders-of-delhi-opened-metro-rail-and-bus-services-also-became-normal-2023-09-10?pageId=2. Accessed 10 Sept. 2023.
+# Added by Rahul Gupta
+# Not a ellipsis example (Natasha Singh, Abhigya Agrawal)
+
+
+सुबह 6 बजे तक हर आधा घंटा के बाद गाड़ी छूटती थी, लेकिन सोमवार से ___ परिचालन का समय पहले की तरह सामान्य हो गया है।
+-----------------
+सुबह 6 बजे तक हर आधा घंटा के बाद गाड़ी छूटती थी, लेकिन सोमवार से (मेट्रो का)परिचालन का समय पहले की तरह सामान्य हो गया है।
+#Translation - Till 6 in the morning, the train used to leave every half hour, but from Monday the operating timings have become normal as before.
+#Source - “अब सब नॉर्मल है: खुल गए दिल्ली के बॉर्डर, मेट्रो, रेल और बस सेवा भी हो गईं सामान्य; लोगों को मिली बड़ी राहत.” Amar Ujala, www.amarujala.com/delhi-ncr/all-borders-of-delhi-opened-metro-rail-and-bus-services-also-became-normal-2023-09-10?pageId=2. Accessed 10 Sept. 2023.
+#Added by Rahul Gupta
+# Not an ellipsis example (Natasha Singh, Abhigya Agrawal)
+
+
+# सुपर-4 की अंक तालिका में पहले स्थान पर पाकिस्तान है। उसके एक मैच में दो अंक हैं। पाकिस्तान का नेट रनरेट  +1.051 है। दूसरे पायदान पर श्रीलंका की टीम है। उसके भी एक मैच में दो अंक हैं, लेकिन वह नेट रनरेट में पाकिस्तान से __ पीछे है।
+सुपर-4 की अंक तालिका में पहले स्थान पर पाकिस्तान है, और श्री लंका पाकिस्तान से ___ पीछे है।
+-----------------
+सुपर-4 की अंक तालिका में पहले स्थान पर पाकिस्तान है, और श्री लंका पाकिस्तान से सुपर-4 की अंक तालिका में पीछे है।
+#Translation - Pakistan is in first place in the points table of Super-4, and Sri Lanka is behind Pakistan.
+#Source - rRaj, Rohit. “IND vs PAK: सुपर-4 में रविवार को पूरा नहीं हो सका भारत-पाकिस्तान मैच, अब रोहित की टीम के लिए क्या हैं समीकरण?” Amar Ujala, 11 Sept. 2023, www.amarujala.com/cricket/cricket-news/ind-vs-pak-what-happens-if-india-vs-pakistan-match-is-washed-out-due-to-rain-asia-cup-2023-2023-09-10?src=tlh&position=2. Accessed 10 Sept. 2023.
+# Added by Rahul Gupta
+# Corrected by Abhigya Agrawal, Natasha Singh
+
+
+फ़ोटोग्राफ़र ने कैमरे का उपयोग किया, और रिपोर्टर ने भी ___।
+----
+फ़ोटोग्राफ़र ने कैमरे का उपयोग किया, और रिपोर्टर ने भी कैमरे का उपयोग किया।
+#Translation - The photographer used the camera, and the reporter did too.
+#Source - https://github.com/Caput97/ELLie-ellipsis_and_thematic_fit_with_LMs/blob/main/ELLie.csv
+# contributed by Rahul Gupta
+# Reviewed by Natasha Singh, Abhigya Agrawal
+
+इंजीनियर ने प्रोजेक्ट पूरा कर लिया, लेकिन छात्र ने ___ नहीं ___।
+----
+इंजीनियर ने प्रोजेक्ट पूरा कर लिया, लेकिन छात्र ने प्रोजेक्ट पूरा नहीं किया।
+# Translation - 	The engineer completed the project, but the student didn’t.
+# Source - https://github.com/Caput97/ELLie-ellipsis_and_thematic_fit_with_LMs/blob/main/ELLie.csv
+# contributed by Rahul Gupta
+# Reviewed by Natasha Singh, Abhigya Agrawal
+
+
+स्नोबोर्डर बोर्ड को पलटता है, लेकिन सर्फ़र ___ नहीं ___।
+----
+स्नोबोर्डर बोर्ड को पलटता है, लेकिन सर्फ़र बोर्ड को नहीं पलटता।
+# Translation - 	The snowboarder flips the board, but the surfer doesn’t.
+# Source - https://github.com/Caput97/ELLie-ellipsis_and_thematic_fit_with_LMs/blob/main/ELLie.csv
+# contributed by Rahul Gupta
+# Reviewed by Natasha Singh, Abhigya Agrawal
+
+सार्जेंट एक मिशन सौंपेगा, और बॉस एक काम ___।
+----
+सार्जेंट एक मिशन सौंपेगा, और बॉस एक काम सौंपेगा।
+# Translation - 	The sergeant will assign a mission, and the boss will a job.
+# Source - https://github.com/Caput97/ELLie-ellipsis_and_thematic_fit_with_LMs/blob/main/ELLie.csv
+# contributed by Rahul Gupta
+# Reviewed by Natasha Singh, Abhigya Agrawal
+
+पत्रकार एक लेख लिखता है, और प्रोफेसर एक किताब ___।
+----
+पत्रकार एक लेख लिखता है, और प्रोफेसर एक किताब लिखता है।
+# Translation - 	The journalist writes an article, and the professor a book.
+# Source - https://github.com/Caput97/ELLie-ellipsis_and_thematic_fit_with_LMs/blob/main/ELLie.csv
+# contributed by Rahul Gupta
+# Reviewed by Natasha Singh, Abhigya Agrawal
+
+वायलिन वादक वायलिन बजाएगा और संगीतकार गाना ___।
+----
+वायलिन वादक वायलिन बजाएगा और संगीतकार गाना बजाएगा।
+# Translation - 	The violinist will play the violin, and the musician a song.
+# Source - https://github.com/Caput97/ELLie-ellipsis_and_thematic_fit_with_LMs/blob/main/ELLie.csv
+# contributed by Rahul Gupta
+# Reviewed by Natasha Singh, Abhigya Agrawal
+
+
+फूलवाला फूल बेचता है, और कसाई मांस ___।
+----
+फूलवाला फूल बेचता है, और कसाई मांस बेचता है।
+# Translation - 	The florist sells flowers, and the butcher meat.
+# Source - https://github.com/Caput97/ELLie- ellipsis_and_thematic_fit_with_LMs/blob/main/ELLie.csv
+# contributed by Rahul Gupta
+# Reviewed by Natasha Singh, Abhigya Agrawal
+
+
+व्यवसायी रिपोर्ट पढ़ रहा है, और ग्राहक मेन्यू  ___।
+----
+व्यवसायी रिपोर्ट पढ़ रहा है, और ग्राहक मेन्यू पढ़ रहा है।
+# Translation - 	The businessman is reading the report, and the customer the menu.
+# Source - https://github.com/Caput97/ELLie-ellipsis_and_thematic_fit_with_LMs/blob/main/ELLie.csv
+# contributed by Rahul Gupta
+# Reviewed by Natasha Singh, Abhigya Agrawal
+
+खगोलशास्त्री तारों का अवलोकन कर रहे थे, और शिक्षक अपने विद्यार्थियों का ___।
+----
+खगोलशास्त्री तारों का अवलोकन कर रहे थे, और शिक्षक अपने विद्यार्थियों का अवलोकन कर रहे थे।
+# Translation - 	The astronomer was observing the stars, and the teacher her pupils.
+# Source - https://github.com/Caput97/ELLie-ellipsis_and_thematic_fit_with_LMs/blob/main/ELLie.csv
+# contributed by Rahul Gupta
+# Reviewed by Natasha Singh, Abhigya Agrawal
+
+
+वैज्ञानिक ने एक खोज की सूचना दी, और गवाह ने एक अपराध की ___।
+----
+वैज्ञानिक ने एक खोज की सूचना दी, और गवाह ने एक अपराध की सूचना दी।
+# Translation - The scientist reported a finding, and the witness a crime.
+# Source - https://github.com/Caput97/ELLie-ellipsis_and_thematic_fit_with_LMs/blob/main/ELLie.csv
+# contributed by Rahul Gupta
+# Reviewed by Natasha Singh, Abhigya Agrawal
+
+सीता ने किताब पढ़ी और गीता ने भी ___। 
+----
+सीता ने किताब पढ़ी और गीता ने भी किताब पढ़ी। 
+# Translation of english data
+# Added by Amit
+# Reviewed by Rahul Gupta
+
+राज ने गाना गाया और राम ने भी ___।
+____
+राज ने गाना गाया और राम ने भी गाना गाया। 
+# Translation of english data
+# Added by Amit
+# Reviewed by Rahul Gupta
+
+अर्जुन ने नई कार खरीदी और विकास ने भी ___।
+____
+अर्जुन ने नई कार खरीदी और विकास ने भी नई कार खरीदी। 
+# Translation of english data
+# Added by Amit
+# Reviewed by Rahul Gupta
+
+अगर तुम इसे कर सकते थे, तो ___ करते क्या?
+____
+अगर तुम इसे कर सकते थे, तो तुम इसे करते क्या?
+# Translation of english data
+# Added by Amit
+# Reviewed by Rahul Gupta
+
+हालांकि यह तुम्हें दर्द करता है, पर यह ___ जरूरी है।
+____
+हालांकि यह तुम्हें दर्द करता है, पर यह तुम्हारे लिए जरूरी है।
+# Translation of english data
+# Added by Amit
+# Reviewed by Rahul Gupta
+# Corrected by Natasha Singh, Abhigya Agrawal
+
+
+मैं इसे कर सकता हूँ, पर मैं ___ नहीं करूँगा। 
+____
+मैं इसे कर सकता हूँ, पर मैं इसे नहीं करूँगा।
+# Translation of english data
+# Added by Amit
+# Reviewed by Rahul Gupta
+
+अगर ___ संभव हो, तो ___ पुनः तारीख तय करें।
+----
+अगर यह संभव है, तो इसे पुनः तारीख तय करें।
+# Translation of english data
+# Added by Amit
+# Reviewed by Rahul Gupta
+
+
+या तो इसे स्वीकार करो या इसे छोड़ दो।
+----
+या तो ____ स्वीकार करो या ____ छोड़ दो। 
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+मैं कार चलाता हूँ, वह कार को मार्ग दिखाती है।
+----
+मैं कार चलाता हूँ, वह ____ मार्ग दिखाती है। 
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+अगर आप इस पर सहमत हैं तो हम आगे बढ़ेंगे।
+----
+अगर आप ____ सहमत हैं तो हम आगे बढ़ेंगे। 
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+खेल उतना ही मजेदार था जितना की उम्मीद की जा रही थी।
+----
+खेल उतना ही मजेदार था जितना की उम्मीद ____ थी। 
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+मुझे ऐसी कॉफी दें जो काली हो।
+----
+मुझे एक कॉफी दें, ____ काली ____ । 
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+मुझे शामिल होना पसंद होगा लेकिन मैं शामिल होने के लिए बहुत व्यस्त हूँ।
+----
+मुझे शामिल होना पसंद होगा लेकिन मैं ____ व्यस्त हूँ।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+तुम देखते हो लेकिन तुम समझते नहीं।
+----
+तुम देखते हो लेकिन ____ समझते नहीं।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वे प्रयास कर रहे हैं लेकिन वे असफल हो रहे हैं।
+----
+वे प्रयास कर रहे हैं लेकिन ____ असफल हो रहे हैं।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+जॉन लिखता है लेकिन जॉन अच्छा नहीं लिखता।
+----
+जॉन लिखता है लेकिन ____ अच्छा नहीं ____ ।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वह दयालु है, वह कमजोर नहीं है।
+----
+वह दयालु है, ____ कमजोर नहीं ____ ।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+एमिली यहाँ काम करती है, एमिली वहाँ काम नहीं करती।
+----
+एमिली यहाँ काम करती है, ____ वहाँ ____ नहीं ____ ।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वे देर से पहुंचे, फिर भी वे पहुंच गए।
+----
+वे देर से पहुंचे, फिर भी ____ पहुंच गए।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+मैंने देखा है लेकिन मैंने खरीदा नहीं है।
+----
+मैंने देखा है लेकिन ____ खरीदा नहीं ____ ।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वह तैरता है और वह जीतता है।
+----
+वह तैरता है और ____ जीतता है।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वे पकाते हैं लेकिन वे कभी साफ नहीं करते।
+----
+वे पकाते हैं लेकिन ____ कभी साफ नहीं करते।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वह असफल होता है फिर भी वह प्रयास करता है।
+----
+वह असफल होता है फिर भी ____ प्रयास करता है।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+मैंने पूछा लेकिन मैंने प्राप्त नहीं किया।
+----
+मैंने पूछा लेकिन ____ प्राप्त नहीं किया।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+आप देर से आए हैं लेकिन आपका स्वागत है।
+----
+आप देर से आए हैं लेकिन ____ स्वागत है।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वह देखते हैं और फिर वह सीखते हैं।
+----
+वह देखते हैं और ____ सीखते हैं।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वह क्रियावली करेगा अगर वह प्रेरित होता है।
+----
+वह क्रियावली करेगा अगर ____ प्रेरित होता है।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+मैंने फोन किया परंतु मैंने बोला नहीं।
+----
+मैंने फोन किया पर ____ बोला नहीं।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+आप सोते हैं पर आप आराम नहीं करते।
+----
+आप सोते हैं पर ____ आराम नहीं करते।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वह चित्र बनाती है और फिर वह चित्र बेचती है।
+----
+वह चित्र बनाती है और ____ बेचती है।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+हम चढ़ते हैं लेकिन हम कभी पहुँचते नहीं।
+----
+हम चढ़ते हैं लेकिन ____ कभी पहुँचते नहीं।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+जॉन को उपन्यास पढ़ना पसंद है लेकिन वह वैज्ञानिक पत्रिकाएँ पढ़ना पसंद नहीं करता।
+----
+जॉन को उपन्यास पढ़ना पसंद है लेकिन ____ वैज्ञानिक पत्रिकाएँ ____ नहीं ।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+मुझे गिटार बजाना आता है, लेकिन मुझे पियानो बजाना नहीं आता।
+----
+मुझे गिटार बजाना आता है, लेकिन ____ पियानो ____ नहीं ____ ।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+अगर कंपनी को अधिक लाभ होता है तो वह अधिक कर्मचारी नौकरी पर रखेगी।
+----
+अगर कंपनी को अधिक लाभ होता है तो वह अधिक कर्मचारी ____ रखेगी।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वह पूरी रात पढ़ाई करेगी, इसलिए वह पार्टी में शामिल नहीं होगी।
+----
+वह पूरी रात पढ़ाई करेगी, इसलिए ____ पार्टी में शामिल नहीं होगी।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+मैं पैरिस गया हूँ लेकिन मैं बर्लिन नहीं गया।
+----
+मैं पैरिस गया हूँ लेकिन ____ बर्लिन नहीं ____ ।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+आपको या तो अधिक मेहनत करनी चाहिए या आपका मुख्य विषय बदलना चाहिए।
+----
+आपको या तो अधिक मेहनत करनी चाहिए या ____ मुख्य विषय बदलना चाहिए।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वे या तो संग्रहालय जा रहे हैं या पार्क जा रहे हैं।
+----
+वे या तो संग्रहालय जा रहे हैं या पार्क ____ ।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+रेसिपी में तीन कप आटा की जरूरत है, और मैंने दो कप डाले हैं।
+----
+रेसिपी में तीन कप आटा की जरूरत है, और मैंने दो कप डाले ____ ।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+मैं समझता हूँ कि आपको जाना चाहिए, लेकिन आप ऐसा नहीं समझते।
+----
+मैं समझता हूँ कि आपको जाना चाहिए, लेकिन आप ____ नहीं ____ ।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+उसने न तो सामग्री पढ़ी थी और न ही किताब पढ़ी थी।
+----
+उसने न तो सामग्री पढ़ी ____ न ____ किताब ____ ।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+बच्चों को अपने कमरे साफ़ करना चाहिए और उन्हें अपना होमवर्क भी करना चाहिए।
+----
+बच्चों को अपने कमरे साफ़ करना चाहिए और ____ होमवर्क भी करना चाहिए।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वह तेज़ी से दौड़ रहा था पर काफी तेज़ नहीं।
+----
+वह तेज़ी से दौड़ रहा था पर ____ तेज़ नहीं।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+हम समस्या का समाधान करने की कोशिश कर रहे हैं, पर ज्यादा प्रगति नहीं हो रही है।
+----
+हम समस्या का समाधान करने की कोशिश कर रहे हैं, पर ____ प्रगति नहीं हो रही है।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+मैं खाता हूँ और मैं सोता हूँ।
+----
+मैं खाता हूँ और ____ सोता हूँ।Z
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+अगर मैं उसे करना चाहूं तो मैं कर सकता हूँ।
+----
+अगर मैं ____ चाहूं तो मैं कर सकता हूँ।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वह पैरिस जाएगी और वह रोम भी जाएगी।
+----
+वह पैरिस ____ और ____ रोम ____ जाएगी।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+उन्होंने खाया और वे चले गए।
+----
+उन्होंने खाया और ____ चले गए।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+अगर मैं जा सकता होता तो मैं जाता।
+----
+अगर मैं जा सकता ____ तो मैं जाता।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+जॉन फ्रेंच को अंग्रेजी की तुलना में अधिक अच्छी तरह बोल सकता है।
+----
+जॉन फ्रेंच ____ अंग्रेजी ____ से अधिक अच्छी तरह बोल सकता है।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वह लोग आ रहे हैं, हैं ना?
+----
+वे ____ आ रहे हैं, हैं ना?
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वह नृत्य अधिक अच्छा करती है गाना गाने से।
+----
+वह नृत्य अधिक अच्छा करती है ____ गाने से।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+अगर तुम इसे करना चाहते हो तो तुम इसे कर सकते हो।
+----
+अगर तुम ____ चाहते हो तो तुम ____ कर सकते हो।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+अगर हम इसे कर सकते तो हम इसे करते।
+----
+अगर हम ____ कर सकते तो हम ____ करते।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+क्या तुम इसे कर सकते हो?
+----
+क्या तुम ____ कर सकते हो?
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+अगर तुम इसे कर सकते हो तो इसे करो।
+----
+अगर तुम ____ कर सकते हो तो ____ करो।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वे लंदन गए हैं और वे पैरिस भी गए हैं।
+----
+वे लंदन ____ और ____ पैरिस ____ गए हैं।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+वह कॉल करेगा या वह लिखेगा।
+----
+वह कॉल करेगा या ____ लिखेगा।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+मैं इसे नहीं कर सकता, लेकिन वह इसे कर सकती है।
+----
+मैं ____ नहीं कर सकता, लेकिन वह ____ कर सकती है।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+मैं जा रहा हूँ, क्या तुम भी जा रहे हो?
+----
+मैं जा रहा हूँ, क्या तुम ____ जा रहे हो?
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+अगर तुम ____ नहीं कर सकते तो मैं ____ करूंगा।
+----
+अगर तुम इसे कर नहीं सकते तो मैं इसे करूंगा।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta
+
+
+अगर हम इसे कर सकते हैं तो हम इसे करेंगे।
+----
+अगर हम ____ कर सकते हैं तो ____ करेंगे।
+# Translation of english data
+# Added by Amit
+#Reviewed by Rahul Gupta

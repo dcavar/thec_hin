@@ -1,0 +1,60 @@
+# NP_ellipsis.txt
+# (C) 2023 by Natasha Singh <singhnat@iu.edu>, Abhigya Agrawal <abagra@iu.edu>, Anirudh Iyer <aniiyer@iu.edu>
+# language: hin
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+हमने बहुत सी किताबें खरीदी और तुमने कुछ ___ खरीदी।
+----
+हमने बहुत सी किताबें खरीदी और तुमने कुछ किताबें खरीदी।
+# Translation of spanish data
+# Added by Natasha Singh
+# Reviewed by Abhigya Agrawal
+
+
+हमने कई किताबें खरीदीं और तुमने तीन ___ खरीदीं।
+----
+हमने कई किताबें खरीदीं और तुमने तीन किताबें खरीदीं।
+# Translation of spanish data
+# Added by Natasha Singh
+# Reviewed by Abhigya Agrawal
+
+
+हमने बहुत सी भौतिकी की किताबें खरीदीं और तुमने एक ___ खरीदी।
+----
+हमने बहुत सी भौतिकी की किताबें खरीदीं और तुमने एक भौतिकी की किताब खरीदी।
+# Translation of spanish data
+# Added by Natasha Singh
+# Reviewed by Abhigya Agrawal
+
+
+हमने बहुत सी भौतिकी की किताबें खरीदीं और तुमने कुछ ___ की किताबें खरीदीं।
+----
+हमने बहुत सी भौतिकी की किताबें खरीदीं और तुमने कुछ भौतिकी की किताबें खरीदीं।
+# Translation of spanish data
+# Added by Natasha Singh
+# Reviewed by Abhigya Agrawal
+
+
+कभी किसी को दिल दिया ? मैंने भी ___ दिया। 
+----
+कभी किसी को दिल दिया ? मैंने भी दिल दिया। 
+# 
+# Added by Anirudh Iyer
+#
+
+
+अमित अपनी प्रेमिका को प्यार करता है। रवि भी ___ प्यार करता है।  
+----
+अमित अपनी प्रेमिका को प्यार करता है। रवि भी अपनी प्रेमिका को प्यार करता है।  
+#
+# Added by Anirudh Iyer
+#
+
+
+राम ने चोम्स्की का नया लेख दो बार पढ़ा। राज ने भी ___ पढ़ा। 
+----
+राम ने चोम्स्की का नया लेख दो बार पढ़ा। राज ने भी लेख दो बार पढ़ा। 
+#
+# Added by Anirudh Iyer
+#

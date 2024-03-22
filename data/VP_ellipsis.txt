@@ -1,0 +1,47 @@
+# VP_ellipsis.txt
+# (C) 2023 by Natasha Singh <singhnat@iu.edu>, Abhigya Agrawal <abagra@iu.edu>
+# language: hin
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+कुछ लोग गोभी पसंद करते हैं, लेकिन कई ___ नहीं करते।
+----
+कुछ लोग गोभी पसंद करते हैं, लेकिन कई लोग गोभी पसंद नहीं करते।
+# Translation of english data
+# Added by Natasha Singh
+# Reviewed by Abhigya Agrawal
+
+सुमेधा ने “युद्ध और शांति” पढ़ी, लेकिन मीरा ने  ___ नहीं ___।
+----
+सुमेधा ने “युद्ध और शांति” पढ़ी, लेकिन मीरा ने “युद्ध और शांति” नहीं पढ़ी।
+# Translation of english data 
+# Added by Natasha Singh
+# Reviewed by Abhigya Agrawal
+
+वह सेब बेचेगी और राज भी ___।
+----
+वह सेब बेचेगी और राज भी सेब बेचेगा।
+# Translation of english data 
+# Added by Natasha Singh
+# Reviewed by Abhigya Agrawal
+
+उसने क्रिकेट खेला, और मैंने भी  ___ ।
+----
+उसने क्रिकेट खेला, और मैंने भी क्रिकेट खेला।
+# Translation of english data 
+# Added by Natasha Singh
+# Reviewed by Abhigya Agrawal
+
+राज ने राहुल को देखा था, लेकिन मीरा ने ___ नहीं ___ ।
+----
+राज ने राहुल को देखा था, लेकिन मीरा ने राहुल को नहीं देखा था ।
+# Translation of english data 
+# Added by Natasha Singh
+# Reviewed by Abhigya Agrawal
+
+मैं सुबह को खरीदारी कर सकता हूँ, लेकिन ___ दोपहर को ___ नहीं ___।
+----
+मैं सुबह को खरीदारी कर सकता हूँ, लेकिन मैं दोपहर को खरीदारी नहीं कर सकता हूँ।
+# Translation of english data 
+# Added by Natasha Singh
+# Reviewed by Abhigya Agrawal
